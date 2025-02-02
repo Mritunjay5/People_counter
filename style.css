@@ -1,4 +1,4 @@
-/* Center content */
+
 body {
     text-align: center;
     font-family: Arial, sans-serif;
@@ -6,7 +6,7 @@ body {
     background-color: #787272;
 }
 
-/* Style for the count display */
+
 #counta2z {
     font-size: 50px;
     font-weight: bold;
@@ -14,7 +14,7 @@ body {
     margin: 20px 0;
 }
 
-/* Button styling */
+
 button {
     font-size: 20px;
     padding: 12px 24px;
